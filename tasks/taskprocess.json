@@ -1,0 +1,100 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "newName": "626a23f830aa177e5168c1c08d3c43a6",
+      "inputPath": "/Users/alexandra/Desktop/images-modifier/input/image-1685608763782.jpg",
+      "timestamp": "2023-06-01T08:39:23.733Z",
+      "original": {
+        "format": "jpeg",
+        "width": 2048,
+        "height": 3072,
+        "channels": 3,
+        "premultiplied": false,
+        "size": 308243
+      },
+      "outputPath": "/Users/alexandra/Desktop/images-modifier/output/5039327622_2_2_1/800",
+      "modified": {
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "channels": 3,
+        "premultiplied": false,
+        "size": 82226
+      },
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "newName": "626a23f830aa177e5168c1c08d3c43a6",
+      "inputPath": "/Users/alexandra/Desktop/images-modifier/input/image-1685608763782.jpg",
+      "timestamp": "2023-06-01T08:39:23.733Z",
+      "original": {
+        "format": "jpeg",
+        "width": 2048,
+        "height": 3072,
+        "channels": 3,
+        "premultiplied": false,
+        "size": 308243
+      },
+      "outputPath": "/Users/alexandra/Desktop/images-modifier/output/5039327622_2_2_1/1024",
+      "modified": {
+        "format": "jpeg",
+        "width": 1024,
+        "height": 1536,
+        "channels": 3,
+        "premultiplied": false,
+        "size": 121455
+      },
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "newName": "626a23f830aa177e5168c1c08d3c43a6",
+      "inputPath": "/Users/alexandra/Desktop/images-modifier/input/image-1685608953077.jpg",
+      "timestamp": "2023-06-01T08:42:33.031Z",
+      "original": {
+        "format": "jpeg",
+        "width": 2048,
+        "height": 3072,
+        "channels": 3,
+        "premultiplied": false,
+        "size": 308243
+      },
+      "outputPath": "/Users/alexandra/Desktop/images-modifier/output/5039327622_2_2_1/1024",
+      "modified": {
+        "format": "jpeg",
+        "width": 1024,
+        "height": 1536,
+        "channels": 3,
+        "premultiplied": false,
+        "size": 121455
+      },
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "newName": "626a23f830aa177e5168c1c08d3c43a6",
+      "inputPath": "/Users/alexandra/Desktop/images-modifier/input/image-1685608953077.jpg",
+      "timestamp": "2023-06-01T08:42:33.031Z",
+      "original": {
+        "format": "jpeg",
+        "width": 2048,
+        "height": 3072,
+        "channels": 3,
+        "premultiplied": false,
+        "size": 308243
+      },
+      "outputPath": "/Users/alexandra/Desktop/images-modifier/output/5039327622_2_2_1/800",
+      "modified": {
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "channels": 3,
+        "premultiplied": false,
+        "size": 82226
+      },
+      "status": "completed"
+    }
+  ]
+}
